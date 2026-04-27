@@ -1,0 +1,26 @@
+<h3>1. Install the app</h3>
+<p>Upload the app ZIP to your YouTrack instance via <strong>Admin → Apps</strong>.</p>
+
+<h3>2. Configure ACL (required)</h3>
+<p>Go to <strong>Administration → Apps → Adv.KVStore → Settings</strong> and set allowed groups:</p>
+<ul>
+  <li><strong>Global Scope — Allowed Group</strong> — UserGroup with access to global storage</li>
+  <li><strong>Project Scope — Allowed Group</strong> — UserGroup with access to project storage</li>
+</ul>
+<p><strong>Important:</strong> scopes are disabled by default (403). You must set a group to enable access.</p>
+
+<h3>3. Open Admin Panel</h3>
+<p>Go to <strong>YouTrack Admin → Adv.KVStore</strong> to view stored blocks and access control status.</p>
+
+<h3>4. Use from Workflows</h3>
+<p>Workflows interact with the store via HTTP API.</p>
+
+<h4>Endpoints</h4>
+<ul>
+  <li><strong>Global</strong>: <code>/api/extensionEndpoints/axkvstore/be/{endpoint}</code></li>
+  <li><strong>Project</strong>: <code>/api/admin/projects/{id}/extensionEndpoints/axkvstore/be-project/{endpoint}</code></li>
+</ul>
+<p>Available endpoints: <code>get</code>, <code>set</code>, <code>delete</code>, <code>drop</code>, <code>flush</code>, <code>blocks</code></p>
+
+<p>See <a href="HOW_TO_USE.md">HOW_TO_USE.md</a> for workflow examples, helper scripts, and full API usage guide.</p>
+<p>See <a href="README.md">README.md</a> for API reference and technical documentation.</p>

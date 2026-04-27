@@ -1,0 +1,11 @@
+{
+  "$schema": "https://json.schemastore.org/youtrack-app.json",
+  "name": "axkvstore-test",
+  "title": "KVStore Test",
+  "description": "Test workflow for Adv.KVStore — runs CRUD/TTL tests via HTTP API",
+  "version": "0.0.2",
+  "vendor": {
+    "name": "mag1cc",
+    "email": "apps@mag1.cc"
+  }
+}

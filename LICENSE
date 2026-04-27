@@ -1,0 +1,38 @@
+Proprietary License
+
+Copyright (c) 2026 Alexander Falameev
+All rights reserved.
+
+Redistribution and use in source or binary forms, with or without modification, are NOT permitted without the prior written consent of the copyright holder.
+
+Permission is expressly denied to any person obtaining a copy of this software and associated documentation files (the "Software") to deal in the Software, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, unless a separate, explicit, written license agreement has been granted by the copyright holder.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+If you wish to obtain a commercial license to use, modify, or distribute this Software, please contact the copyright holder.
+
+ADDITIONAL TERMS
+
+1. JetBrains Marketplace Distribution. If the Software is distributed via JetBrains Marketplace, end users must accept the applicable end-user terms presented in the Marketplace and any additional EULA supplied by the copyright holder. JetBrains and YouTrack are trademarks of JetBrains s.r.o. This project is not affiliated with, endorsed by, or sponsored by JetBrains s.r.o.
+
+2. Internal Company Use. The employer of the copyright holder ("Licensed Company") is granted a non-transferable, non-sublicensable, royalty-free license to:
+   
+   a) Use the Software internally within the company;
+   
+   b) Maintain an internal copy of the source code in the company's version control system (e.g., internal Git repository) for purposes of code review, audit, and automated deployment;
+   
+   c) Deploy the Software to the company's internal YouTrack instance(s) using automated deployment pipelines;
+   
+   d) Continue to use, modify, and maintain the Software internally after the copyright holder's employment termination, provided that:
+      i) The copyright holder has ceased employment with the Licensed Company, OR
+      ii) The copyright holder has not responded to two consecutive written requests for support or maintenance sent to the last known contact address with at least 30 days between requests;
+   
+   e) The Licensed Company may NOT redistribute, sublicense, or provide the Software or its derivatives to any third party outside the company without explicit written permission from the copyright holder.
+   
+   This license remains perpetual for internal use as described above, but all external distribution rights remain exclusively with the copyright holder unless otherwise agreed in writing.
+
+3. Third-Party Components. The Software may include or depend on third-party components that are distributed under their own licenses (e.g., MIT, Apache-2.0). Nothing in this license is intended to restrict rights granted by those third-party licenses. See THIRD_PARTY_NOTICES.md for details.
+
+4. No Trademark Rights. This license does not grant any rights to use the names, logos, or trademarks of the copyright holder or any third parties, including JetBrains and YouTrack.
+
+5. Scope Clarification. The Software is designed to interoperate with YouTrack via public APIs and extension points. Use of YouTrack is subject to JetBrains' separate terms and licenses.

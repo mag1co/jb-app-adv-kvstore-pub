@@ -1,0 +1,13 @@
+NOTICE
+
+This software ("Software") is proprietary and licensed by Alexander Falameev.
+
+Distribution channels:
+- JetBrains Marketplace: End users must accept the Marketplace terms and any EULA provided with the listing.
+- Private/internal deployments: permitted only as explicitly granted in LICENSE.
+
+Trademark disclaimer:
+JetBrains and YouTrack are trademarks of JetBrains s.r.o. This project is not affiliated with, endorsed by, or sponsored by JetBrains s.r.o.
+
+Third-party components:
+The Software uses third-party open-source components distributed under their respective licenses. Nothing in the proprietary LICENSE restricts rights granted by those licenses. See THIRD_PARTY_NOTICES.md for details.
