@@ -1,0 +1,23 @@
+# Privacy Policy for Adv.KVStore
+
+**Last Updated**: April 12, 2026
+
+## Data Collection
+
+**Adv.KVStore does not collect, transmit, or store any telemetry, analytics, or personal data.**
+
+All processing occurs locally within your YouTrack instance.
+
+## External Services
+
+**The app does not contact any external services.** All key-value storage operations are performed entirely within the YouTrack app runtime using YouTrack's extension properties.
+
+## Data Processing
+
+- The app stores key-value data in YouTrack extension properties (issue, project, and global scope)
+- Stored data is accessible only through the app's HTTP API and admin panel
+- No stored data, user data, or credentials are logged or transmitted to third parties
+
+## Contact
+
+For privacy-related questions, contact: apps@mag1.cc
